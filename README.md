@@ -8,7 +8,7 @@
 [![Express.js](https://img.shields.io/badge/expressjs-orange.svg)](https://expressjs.com/)
 [![Mongoose.js](https://img.shields.io/badge/mongoosejs-red.svg)](https://mongoosejs.com/)
 
-<br>
+<br />
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![Repo Size](https://img.shields.io/github/repo-size/xndroli/Social-Network-API.svg)](https://github.com/xndroli/Social-Network-API/issues)
