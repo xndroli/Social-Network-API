@@ -1,17 +1,26 @@
 {
-  "name": "18-nosql",
+  "name": "nosql-sns-api",
   "version": "1.0.0",
-  "private": true,
-  "description": "",
+  "private": false,
+  "description": "<a name=\"readme-top\"></a>",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alexander Figoli",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^6.0.13"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xndroli/Social-Network-API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xndroli/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/xndroli/Social-Network-API#readme"
 }
